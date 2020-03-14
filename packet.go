@@ -1,4 +1,4 @@
-package packet
+package cs456Packet
 
 import "encoding/binary"
 
